@@ -1,1 +1,1 @@
-# Project- Snake Game 🐍🐍
+# Project- Snake Game 🐍
